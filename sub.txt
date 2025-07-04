@@ -25,4 +25,4 @@ less://c325df89-39e7-47c6-aee2-cb48f17c4b95@230920393.f-sub.com:3799?encryption=
 vless://5ff50453-6af7-422e-befa-97c4f57523a6@soghandi.mohamad.sbs:2025?type=grpc&serviceName=fjiogjdfiog5&authority=&security=reality&pbk=5Vrk9FMLOJWWbjqoVBKqlhYBq7Djfk0oDHMFBbaImWc&fp=chrome&sni=speedtest.net&sid=a6146768&spx=%2F#m0
 
 
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?encryption=none&security=none&sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3kir#%40vpnbaz
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?encryption=none&security=none&sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3kir#%40vpnbaz2
