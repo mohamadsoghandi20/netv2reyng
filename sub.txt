@@ -18,7 +18,7 @@ vless://9b3b434a-90d6-4a74-9ae4-03372c72f8df@meet.fast.hosting-ip.com:80?mode=au
 vless://c325df89-39e7-47c6-aee2-cb48f17c4b95@99823232.webnama.com.tr:1517?encryption=none&security=none&type=tcp&headerType=http&host=testspeed-foreign.tci.ir#%F0%9F%87%A9%F0%9F%87%AA%20Germany%202
 
 
-vless://c325df89-39e7-47c6-aee2-cb48f17c4b95@78234873823.webnama.com.tr:3789?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.com#%F0%9F%87%BA%F0%9F%87%B8%20USA
+vless://c325df89-39e7-47c6-aee2-cb48f17c4b95@78234873823.webnama.com.tr:3789?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.com#%1
 
 less://c325df89-39e7-47c6-aee2-cb48f17c4b95@230920393.f-sub.com:3799?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%F0%9F%87%AB%F0%9F%87%B7%20France
 
