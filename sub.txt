@@ -1,35 +1,12 @@
-# 🌟 اختصاصی شماره ۱ | @netv2reyng
-vless://9b3b434a-90d6-4a74-9ae4-03372c72f8df@mtn.venzo.com.tr:8880?type=httpupgrade&encryption=none&path=%2Fnetv2reyng%2Fnetv2reyng&host=netv2reyng.ird2.serrjioo.ir#اختصاصی۱-@netv2reyng
-
-# 🌟 اختصاصی شماره ۲ | @netv2reyng
-vless://9b3b434a-90d6-4a74-9ae4-03372c72f8df@meet.fast.hosting-ip.com:80?type=xhttp&mode=auto&path=%2FGoodLuck%2Fnetv2reyng&host=netv2reyng.ssl.fastly.net&encryption=none#اختصاصی۲-@netv2reyng
-
-# 🌟 اختصاصی شماره ۳ | Reality | @netv2reyng
-vless://3a6363d3-cb7d-4374-9adc-2966525bf00f@help.site.moaidownloader.info:443?type=tcp&security=reality&fp=chrome&pbk=254dNXsDuw4Rj5PTZer_L-I3U5Brf4yFIJXA0dk8bzo&sni=netv2reyng.xbox.com&sid=netv2reyng-real01#اختصاصی۳-@netv2reyng
-
-# 🌟 اختصاصی شماره ۴ | @netv2reyng
-vless://9b3b434a-90d6-4a74-9ae4-03372c72f8df@irani.yousefbn.com:8585?type=tcp&encryption=none&host=netv2reyng.telewebion.com&headerType=http#اختصاصی۴-@netv2reyng
-
-# 🌟 اختصاصی شماره ۵ | Netherlands | @netv2reyng
-vless://c325df89-39e7-47c6-aee2-cb48f17c4b95@233923233.webnama.com.tr:4928?type=tcp&encryption=none&security=none&headerType=http&host=netv2reyng.speedtest.net#اختصاصی۵-@netv2reyng
-
-# 🌟 اختصاصی شماره ۶ | IPv6 | @netv2reyng
-vless://3a6363d3-cb7d-4374-9adc-2966525bf00f@[2a01:4f9:c012:b2b5::1]:8080?type=tcp&encryption=none&host=xbox.com&headerType=http&path=%2Fnetv2reyng#اختصاصی۶-@netv2reyng
-
-# 🌟 اختصاصی شماره ۷ | FakeHttp | @netv2reyng
-vless://3a6363d3-cb7d-4374-9adc-2966525bf00f@fake.moaidownloader.info:8080?type=tcp&encryption=none&host=xbox.netv2reyng.com&headerType=http&path=%2Fnetv2reyng#اختصاصی۷-@netv2reyng
-
-# 🌟 اختصاصی شماره ۸ | تکرار دوم xhttp | @netv2reyng
-vless://9b3b434a-90d6-4a74-9ae4-03372c72f8df@meet.fast.hosting-ip.com:80?type=xhttp&mode=auto&path=%2FGoodLuck%2Fnetv2reyng&host=imam-reza.netv2reyng.fastly.net&encryption=none#اختصاصی۸-@netv2reyng
-
-# 🌟 اختصاصی شماره ۹ | Germany | @netv2reyng
-vless://c325df89-39e7-47c6-aee2-cb48f17c4b95@99823232.webnama.com.tr:1517?type=tcp&encryption=none&host=testspeed.netv2reyng.ir&headerType=http#اختصاصی۹-@netv2reyng
-
-# 🌟 اختصاصی شماره ۱۰ | Varzesh3 | @netv2reyng
-vless://c325df89-39e7-47c6-aee2-cb48f17c4b95@78234873823.webnama.com.tr:3789?type=tcp&encryption=none&host=netv2reyng.varzesh3.com&headerType=http#اختصاصی۱۰-@netv2reyng
-
-# 🌟 اختصاصی شماره ۱۱ | France | @netv2reyng
-vless://c325df89-39e7-47c6-aee2-cb48f17c4b95@230920393.f-sub.com:3799?type=tcp&encryption=none&host=netv2reyng.speedtest.net&headerType=http#اختصاصی۱۱-@netv2reyng
-
-# 🌟 اختصاصی شماره ۱۲ | Reality gRPC | @netv2reyng
-vless://5ff50453-6af7-422e-befa-97c4f57523a6@soghandi.mohamad.sbs:2025?type=grpc&security=reality&serviceName=netv2reyng%2Cnetv2reyng%2Cnetv2reyng&pbk=5Vrk9FMLOJWWbjqoVBKqlhYBq7Djfk0oDHMFBbaImWc&fp=chrome&sni=netv2reyng.speedtest.net&sid=netv2reyng-user#اختصاصی۱۲-@netv2reyng
+vless://9b3b434a-90d6-4a74-9ae4-03372c72f8df@mtn.venzo.com.tr:8880?type=httpupgrade&encryption=none&path=%2Fnetv2reyng%2Fnetv2reyng&host=netv2reyng.ird2.serrjioo.ir#%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%B4%D9%85%D8%A7%D8%B1%D9%87%201%20%7C%20%40netv2reyng
+vless://9b3b434a-90d6-4a74-9ae4-03372c72f8df@meet.fast.hosting-ip.com:80?type=xhttp&mode=auto&path=%2FGoodLuck%2Fnetv2reyng&host=netv2reyng.ssl.fastly.net&encryption=none#%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%B4%D9%85%D8%A7%D8%B1%D9%87%202%20%7C%20%40netv2reyng
+vless://3a6363d3-cb7d-4374-9adc-2966525bf00f@help.site.moaidownloader.info:443?type=tcp&security=reality&fp=chrome&pbk=254dNXsDuw4Rj5PTZer_L-I3U5Brf4yFIJXA0dk8bzo&sni=netv2reyng.xbox.com&sid=netv2reyng-real01#%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%B4%D9%85%D8%A7%D8%B1%D9%87%203%20%7C%20%40netv2reyng
+vless://9b3b434a-90d6-4a74-9ae4-03372c72f8df@irani.yousefbn.com:8585?type=tcp&encryption=none&host=netv2reyng.telewebion.com&headerType=http#%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%B4%D9%85%D8%A7%D8%B1%D9%87%204%20%7C%20%40netv2reyng
+vless://c325df89-39e7-47c6-aee2-cb48f17c4b95@233923233.webnama.com.tr:4928?type=tcp&encryption=none&security=none&headerType=http&host=netv2reyng.speedtest.net#%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%B4%D9%85%D8%A7%D8%B1%D9%87%205%20%7C%20%40netv2reyng
+vless://3a6363d3-cb7d-4374-9adc-2966525bf00f@[2a01:4f9:c012:b2b5::1]:8080?type=tcp&encryption=none&host=xbox.com&headerType=http&path=%2Fnetv2reyng#%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%B4%D9%85%D8%A7%D8%B1%D9%87%206%20%7C%20%40netv2reyng
+vless://3a6363d3-cb7d-4374-9adc-2966525bf00f@fake.moaidownloader.info:8080?type=tcp&encryption=none&host=xbox.netv2reyng.com&headerType=http&path=%2Fnetv2reyng#%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%B4%D9%85%D8%A7%D8%B1%D9%87%207%20%7C%20%40netv2reyng
+vless://9b3b434a-90d6-4a74-9ae4-03372c72f8df@meet.fast.hosting-ip.com:80?type=xhttp&mode=auto&path=%2FGoodLuck%2Fnetv2reyng&host=imam-reza.netv2reyng.fastly.net&encryption=none#%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%B4%D9%85%D8%A7%D8%B1%D9%87%208%20%7C%20%40netv2reyng
+vless://c325df89-39e7-47c6-aee2-cb48f17c4b95@99823232.webnama.com.tr:1517?type=tcp&encryption=none&host=testspeed.netv2reyng.ir&headerType=http#%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%B4%D9%85%D8%A7%D8%B1%D9%87%209%20%7C%20%40netv2reyng
+vless://c325df89-39e7-47c6-aee2-cb48f17c4b95@78234873823.webnama.com.tr:3789?type=tcp&encryption=none&host=netv2reyng.varzesh3.com&headerType=http#%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%B4%D9%85%D8%A7%D8%B1%D9%87%2010%20%7C%20%40netv2reyng
+vless://c325df89-39e7-47c6-aee2-cb48f17c4b95@230920393.f-sub.com:3799?type=tcp&encryption=none&host=netv2reyng.speedtest.net&headerType=http#%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%B4%D9%85%D8%A7%D8%B1%D9%87%2011%20%7C%20%40netv2reyng
+vless://5ff50453-6af7-422e-befa-97c4f57523a6@soghandi.mohamad.sbs:2025?type=grpc&security=reality&serviceName=netv2reyng%2Cnetv2reyng%2Cnetv2reyng&pbk=5Vrk9FMLOJWWbjqoVBKqlhYBq7Djfk0oDHMFBbaImWc&fp=chrome&sni=netv2reyng.speedtest.net&sid=netv2reyng-user#%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%B4%D9%85%D8%A7%D8%B1%D9%87%2012%20%7C%20%40netv2reyng
