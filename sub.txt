@@ -1,6 +1,7 @@
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.121:8880?mode=gun&security=&encryption=none&type=grpc#%D8%B7%D9%84%D8%B3%D9%85%20%D8%B9%D8%A8%D9%88%D8%B1%20%D8%A7%D8%B2%20%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%20%D9%81%DB%8C%D9%84%D8%AA%D8%B1
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&security=&encryption=none&type=grpc#%%20%D8%B4%D9%88%D8%A7%D9%84%DB%8C%D9%87%E2%80%8C%DB%8C%20%D9%86%D8%AA%E2%80%8C%D8%A2%D8%B2%D8%A7%D8%AF
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?encryption=none&security=none&type=grpc#%%D8%B4%D9%88%D8%A7%D9%84%DB%8C%D9%87%E2%80%8C%DB%8C%20%D9%86%D8%AA%E2%80%8C%D8%A2%D8%B2%D8%A7%D8%AF
 
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%E2%80%8C%D8%A7%D9%81%D8%B3%D8%A7%D9%86%D9%87%E2%80%8C%D8%A7%DB%8C%20%E2%80%93%20%D8%B7%D9%84%D8%B3%D9%85%20%D9%81%D8%B9%D8%A7%D9%84%20%D8%B4%D8%AF%21
 
