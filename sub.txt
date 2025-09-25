@@ -5,15 +5,11 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?encryption=non
 
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%E2%80%8C%D8%A7%D9%81%D8%B3%D8%A7%D9%86%D9%87%E2%80%8C%D8%A7%DB%8C%20%E2%80%93%20%D8%B7%D9%84%D8%B3%D9%85%20%D9%81%D8%B9%D8%A7%D9%84%20%D8%B4%D8%AF%21
 
+vless://f364aada-0d69-44b6-bddf-41a16757c359@help.site.moaidownloader.info:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.xbox.com&fp=chrome&pbk=254dNXsDuw4Rj5PTZer_L-I3U5Brf4yFIJXA0dk8bzo&sid=87cddfb6#%F0%9F%8C%B1Reality%20%F0%9F%91%A4v2rey45_1000%20%F0%9F%93%8530%20Days
 
-vless://eeb38fe7-69d3-41e7-acfa-b2fb261f4a5d@help.site.moaidownloader.info:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.xbox.com&fp=chrome&pbk=254dNXsDuw4Rj5PTZer_L-I3U5Brf4yFIJXA0dk8bzo&sid=87cddfb6#%F0%9F%8C%B1Reality%20%F0%9F%91%A42545155_v2rey45_102%20%F0%9F%93%8530%20Days
+vless://f364aada-0d69-44b6-bddf-41a16757c359@site.help.moaidownloader.info:7026?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4&sid=#%F0%9F%8C%BEReality%2B%20200.0%20GB
 
-vless://eeb38fe7-69d3-41e7-acfa-b2fb261f4a5d@us.moaidownloader.info:2002?security=&encryption=none&host=xbox.com&headerType=http&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20USA%20%F0%9F%8C%B1 
-
-
-vless://eeb38fe7-69d3-41e7-acfa-b2fb261f4a5d@site.help.moaidownloader.info:7026?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4&sid=#%F0%9F%8C%BEReality%2B%20100.0%20GB
-
-vless://eeb38fe7-69d3-41e7-acfa-b2fb261f4a5d@singa.poor.moaidownloader.info:7026?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4&sid=#%F0%9F%8D%81%20Reality%2B%2B%20%E2%9C%A8New%2096.37%20GB
+vless://f364aada-0d69-44b6-bddf-41a16757c359@us.moaidownloader.info:2002?security=none&type=tcp&headerType=http&path=%2F&host=xbox.com#%F0%9F%87%BA%F0%9F%87%B8%20USA%20%F0%9F%8C%B1
 
 vless://584ac1bf-4543-45fc-913c-aeaa784c9149@soghandi.mohamad.sbs:2086?type=tcp&path=%2F&host=apple.com&headerType=http&security=none#%F0%9F%97%BD%D8%AA%D9%86%D9%87%D8%A7%20%D8%B1%D8%A7%D9%87%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%A7%D9%85%DB%8C%D8%AF%20%D8%A8%D9%87%20%D8%AE%D8%AF%D8%A7%F0%9F%87%BA%F0%9F%87%B8
 
