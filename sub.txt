@@ -1,4 +1,4 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.121:8880?mode=gun&security=&encryption=none&type=grpc#%D8%B7%D9%84%D8%B3%D9%85%20%D8%B9%D8%A8%D9%88%D8%B1%20%D8%A7%D8%B2%20%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%20%D9%81%DB%8C%D9%84%D8%AA%D8%B1
+
 
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?encryption=none&security=none&type=grpc#%D8%B4%D9%88%D8%A7%D9%84%DB%8C%D9%87%E2%80%8C%DB%8C%20%D9%86%D8%AA%E2%80%8C%D8%A2%D8%B2%D8%A7%D8%AF
@@ -11,10 +11,8 @@ vless://f364aada-0d69-44b6-bddf-41a16757c359@site.help.moaidownloader.info:7026?
 
 vless://f364aada-0d69-44b6-bddf-41a16757c359@us.moaidownloader.info:2002?security=none&type=tcp&headerType=http&path=%2F&host=xbox.com#%F0%9F%87%BA%F0%9F%87%B8%20USA%20%F0%9F%8C%B1
 
-vless://584ac1bf-4543-45fc-913c-aeaa784c9149@soghandi.mohamad.sbs:2086?type=tcp&path=%2F&host=apple.com&headerType=http&security=none#%F0%9F%97%BD%D8%AA%D9%86%D9%87%D8%A7%20%D8%B1%D8%A7%D9%87%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%A7%D9%85%DB%8C%D8%AF%20%D8%A8%D9%87%20%D8%AE%D8%AF%D8%A7%F0%9F%87%BA%F0%9F%87%B8
+
+vless://3a880c6e-6186-dc0a-3a73-63dd23cfc133@162.217.249.142:4443?security=&encryption=none&host=zhaket.com&headerType=http&type=tcp#N%E1%B4%87%E1%B4%9B%CA%9C%E1%B4%87%CA%80%CA%9F%E1%B4%80%C9%B4%E1%B4%85s%F0%9F%87%B3%F0%9F%87%B1
 
 
-
-
-
-
+vless://3a880c6e-6186-dc0a-3a73-63dd23cfc133@45.92.219.49:8080?path=%2F&security=&encryption=none&type=ws#T%E1%B4%9C%CA%80%E1%B4%8B%C9%AA%CA%8F%E1%B4%87%F0%9F%87%B9%F0%9F%87%B7
