@@ -18,4 +18,3 @@ vless://3a880c6e-6186-dc0a-3a73-63dd23cfc133@162.217.249.142:4443?security=&encr
 vless://3a880c6e-6186-dc0a-3a73-63dd23cfc133@45.92.219.49:8080?path=%2F&security=&encryption=none&type=ws#T%E1%B4%9C%CA%80%E1%B4%8B%C9%AA%CA%8F%E1%B4%87%F0%9F%87%B9%F0%9F%87%B7
 
 
-vless://267fb2ec-fc84-461e-ac56-5f03723557cd@uk111m-lomin.mongral.ir:4444?encryption=none&security=reality&sni=store.steampowered.com&fp=chrome&pbk=5if9NWaLaNEfwV9GuafHuas8q3wrxtsgf_-eInEOaSA&sid=b408ee2f83a8&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%F0%9D%97%A8%F0%9D%97%BB%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%B1%20%F0%9D%97%9E%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4%F0%9D%97%B1%F0%9D%97%BC%F0%9D%97%BA%E3%80%8E%F0%9D%9F%9B%E3%80%8F
