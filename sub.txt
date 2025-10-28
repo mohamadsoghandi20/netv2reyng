@@ -1,10 +1,4 @@
 
-
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?encryption=none&security=none&type=grpc#%D8%B4%D9%88%D8%A7%D9%84%DB%8C%D9%87%E2%80%8C%DB%8C%20%D9%86%D8%AA%E2%80%8C%D8%A2%D8%B2%D8%A7%D8%AF
-
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%E2%80%8C%D8%A7%D9%81%D8%B3%D8%A7%D9%86%D9%87%E2%80%8C%D8%A7%DB%8C%20%E2%80%93%20%D8%B7%D9%84%D8%B3%D9%85%20%D9%81%D8%B9%D8%A7%D9%84%20%D8%B4%D8%AF%21
-
 vless://f364aada-0d69-44b6-bddf-41a16757c359@help.site.moaidownloader.info:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.xbox.com&fp=chrome&pbk=254dNXsDuw4Rj5PTZer_L-I3U5Brf4yFIJXA0dk8bzo&sid=87cddfb6#%F0%9F%8C%B1Reality%20%F0%9F%91%A4v2rey45_1000%20%F0%9F%93%8530%20Days
 
 vless://f364aada-0d69-44b6-bddf-41a16757c359@site.help.moaidownloader.info:7026?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4&sid=#%F0%9F%8C%BEReality%2B%20200.0%20GB
@@ -12,9 +6,10 @@ vless://f364aada-0d69-44b6-bddf-41a16757c359@site.help.moaidownloader.info:7026?
 vless://f364aada-0d69-44b6-bddf-41a16757c359@us.moaidownloader.info:2002?security=none&type=tcp&headerType=http&path=%2F&host=xbox.com#%F0%9F%87%BA%F0%9F%87%B8%20USA%20%F0%9F%8C%B1
 
 
-vless://3a880c6e-6186-dc0a-3a73-63dd23cfc133@162.217.249.142:4443?security=&encryption=none&host=zhaket.com&headerType=http&type=tcp#N%E1%B4%87%E1%B4%9B%CA%9C%E1%B4%87%CA%80%CA%9F%E1%B4%80%C9%B4%E1%B4%85s%F0%9F%87%B3%F0%9F%87%B1
-
-
-vless://3a880c6e-6186-dc0a-3a73-63dd23cfc133@45.92.219.49:8080?path=%2F&security=&encryption=none&type=ws#T%E1%B4%9C%CA%80%E1%B4%8B%C9%AA%CA%8F%E1%B4%87%F0%9F%87%B9%F0%9F%87%B7
-
-
+vless://f46b6264-b902-7a9c-7494-06eece65af5c@Never.Xxx-Internet.shop:443?security=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9D%98%95%F0%9D%98%A6%F0%9D%98%B5%F0%9D%98%A9%F0%9D%98%A6%F0%9D%98%B3%F0%9D%98%AD%F0%9D%98%A2%F0%9D%98%AF%F0%9D%98%A5%F0%9D%98%B4%20%F0%9D%98%AF%F0%9D%98%A6%F0%9D%98%B8%20%F0%9F%87%B3%F0%9F%87%B1
+vless://f46b6264-b902-7a9c-7494-06eece65af5c@Ltni.Xxxxxx-God.shop:443?security=none&type=tcp#%F0%9D%98%93%F0%9D%98%A2%F0%9D%98%B5%F0%9D%98%B7%F0%9D%98%AA%F0%9D%98%A2%20%F0%9D%98%AF%F0%9D%98%A6%F0%9D%98%B8%20%F0%9F%87%B1%F0%9F%87%BB
+vless://f46b6264-b902-7a9c-7494-06eece65af5c@Gyyy.Xxxxxx-god.xyz:443?security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%F0%9D%98%8E%F0%9D%98%A6%F0%9D%98%B3%F0%9D%98%AE%F0%9D%98%A2%F0%9D%98%AF%F0%9D%98%BA%20%F0%9D%98%AF%F0%9D%98%A6%F0%9D%98%B8%20%F0%9F%87%A9%F0%9F%87%AA
+vless://f46b6264-b902-7a9c-7494-06eece65af5c@Nhnn2.Xxx-Internet.shop:443?security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20%F0%9D%98%95%F0%9D%98%B0%F0%9D%98%B3%F0%9D%98%B5%F0%9D%98%A9%20%F0%9D%98%88%F0%9D%98%AE%F0%9D%98%A6%F0%9D%98%B3%F0%9D%98%AA%F0%9D%98%A4%F0%9D%98%A2%20%F0%9F%87%BA%F0%9F%87%B8%20%F0%9D%98%AF%F0%9D%98%A6%F0%9D%98%B8
+vless://f46b6264-b902-7a9c-7494-06eece65af5c@Rooos.Xxxxxx-God.shop:8364?security=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20%F0%9D%98%99%F0%9D%98%B6%F0%9D%98%B4%F0%9D%98%B4%F0%9D%98%AA%F0%9D%98%A2%20%F0%9D%98%95%F0%9D%98%B0%20%F0%9D%98%A2%F0%9D%98%A5%F0%9D%98%B4%20%F0%9F%87%B7%F0%9F%87%BA%20new
+vless://f46b6264-b902-7a9c-7494-06eece65af5c@Never.Xxx-Internet.shop:38736?security=reality&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&fp=chrome&pbk=nb4NmzDpZE6-wo7tbtIZlWM8n16mwtXOTR5eRbcRdwM&sid=8151a276c6caac63#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9D%98%95%F0%9D%98%A6%F0%9D%98%B5%F0%9D%98%A9%F0%9D%98%A6%F0%9D%98%B3%F0%9D%98%AD%F0%9D%98%A2%F0%9D%98%AF%F0%9D%98%A5%F0%9D%98%B4%20%F0%9F%87%B3%F0%9F%87%B1
+vless://f46b6264-b902-7a9c-7494-06eece65af5c@Hdi.Xxx-Com.shop:443?security=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20%F0%9D%98%9B%F0%9D%98%B6%E2%80%8C%F0%9D%98%B3%F0%9D%98%AC%F0%9D%98%AA%F0%9D%98%BA%F0%9D%98%A6%20%F0%9D%98%8E%F0%9D%98%A2%F0%9D%98%AE%F0%9D%98%AA%F0%9D%98%AF%F0%9D%98%A8%20%F0%9F%87%B9%F0%9F%87%B7%20new 
