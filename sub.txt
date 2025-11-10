@@ -1,15 +1,17 @@
 
-vless://f364aada-0d69-44b6-bddf-41a16757c359@help.site.moaidownloader.info:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.xbox.com&fp=chrome&pbk=254dNXsDuw4Rj5PTZer_L-I3U5Brf4yFIJXA0dk8bzo&sid=87cddfb6#%F0%9F%8C%B1Reality%20%F0%9F%91%A4v2rey45_1000%20%F0%9F%93%8530%20Days
+📋 پیکربندی برای 2545155_v2rey45_102
+==================================================
 
-vless://f364aada-0d69-44b6-bddf-41a16757c359@site.help.moaidownloader.info:7026?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4&sid=#%F0%9F%8C%BEReality%2B%20200.0%20GB
+سرور 1:
+vless://eeb38fe7-69d3-41e7-acfa-b2fb261f4a5d@help.site.moaidownloader.info:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.xbox.com&fp=chrome&pbk=254dNXsDuw4Rj5PTZer_L-I3U5Brf4yFIJXA0dk8bzo&sid=87cddfb6#%F0%9F%8C%B1Reality%20%F0%9F%91%A42545155_v2rey45_102%20%F0%9F%93%8530%20Days
 
-vless://f364aada-0d69-44b6-bddf-41a16757c359@us.moaidownloader.info:2002?security=none&type=tcp&headerType=http&path=%2F&host=xbox.com#%F0%9F%87%BA%F0%9F%87%B8%20USA%20%F0%9F%8C%B1
+سرور 2:
+vless://eeb38fe7-69d3-41e7-acfa-b2fb261f4a5d@site.help.moaidownloader.info:7026?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4&sid=#%F0%9F%8C%BEReality%2B%20200.0%20GB
 
+سرور 3:
+vless://eeb38fe7-69d3-41e7-acfa-b2fb261f4a5d@en.logiclama.com:7026?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4&sid=#%F0%9F%8D%80%20United%20kingdom%20%F0%9F%87%AC%F0%9F%87%A7
 
-vless://f46b6264-b902-7a9c-7494-06eece65af5c@Never.Xxx-Internet.shop:443?security=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9D%98%95%F0%9D%98%A6%F0%9D%98%B5%F0%9D%98%A9%F0%9D%98%A6%F0%9D%98%B3%F0%9D%98%AD%F0%9D%98%A2%F0%9D%98%AF%F0%9D%98%A5%F0%9D%98%B4%20%F0%9D%98%AF%F0%9D%98%A6%F0%9D%98%B8%20%F0%9F%87%B3%F0%9F%87%B1
-vless://f46b6264-b902-7a9c-7494-06eece65af5c@Ltni.Xxxxxx-God.shop:443?security=none&type=tcp#%F0%9D%98%93%F0%9D%98%A2%F0%9D%98%B5%F0%9D%98%B7%F0%9D%98%AA%F0%9D%98%A2%20%F0%9D%98%AF%F0%9D%98%A6%F0%9D%98%B8%20%F0%9F%87%B1%F0%9F%87%BB
-vless://f46b6264-b902-7a9c-7494-06eece65af5c@Gyyy.Xxxxxx-god.xyz:443?security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%F0%9D%98%8E%F0%9D%98%A6%F0%9D%98%B3%F0%9D%98%AE%F0%9D%98%A2%F0%9D%98%AF%F0%9D%98%BA%20%F0%9D%98%AF%F0%9D%98%A6%F0%9D%98%B8%20%F0%9F%87%A9%F0%9F%87%AA
-vless://f46b6264-b902-7a9c-7494-06eece65af5c@Nhnn2.Xxx-Internet.shop:443?security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20%F0%9D%98%95%F0%9D%98%B0%F0%9D%98%B3%F0%9D%98%B5%F0%9D%98%A9%20%F0%9D%98%88%F0%9D%98%AE%F0%9D%98%A6%F0%9D%98%B3%F0%9D%98%AA%F0%9D%98%A4%F0%9D%98%A2%20%F0%9F%87%BA%F0%9F%87%B8%20%F0%9D%98%AF%F0%9D%98%A6%F0%9D%98%B8
-vless://f46b6264-b902-7a9c-7494-06eece65af5c@Rooos.Xxxxxx-God.shop:8364?security=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20%F0%9D%98%99%F0%9D%98%B6%F0%9D%98%B4%F0%9D%98%B4%F0%9D%98%AA%F0%9D%98%A2%20%F0%9D%98%95%F0%9D%98%B0%20%F0%9D%98%A2%F0%9D%98%A5%F0%9D%98%B4%20%F0%9F%87%B7%F0%9F%87%BA%20new
-vless://f46b6264-b902-7a9c-7494-06eece65af5c@Never.Xxx-Internet.shop:38736?security=reality&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&fp=chrome&pbk=nb4NmzDpZE6-wo7tbtIZlWM8n16mwtXOTR5eRbcRdwM&sid=8151a276c6caac63#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9D%98%95%F0%9D%98%A6%F0%9D%98%B5%F0%9D%98%A9%F0%9D%98%A6%F0%9D%98%B3%F0%9D%98%AD%F0%9D%98%A2%F0%9D%98%AF%F0%9D%98%A5%F0%9D%98%B4%20%F0%9F%87%B3%F0%9F%87%B1
-vless://f46b6264-b902-7a9c-7494-06eece65af5c@Hdi.Xxx-Com.shop:443?security=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20%F0%9D%98%9B%F0%9D%98%B6%E2%80%8C%F0%9D%98%B3%F0%9D%98%AC%F0%9D%98%AA%F0%9D%98%BA%F0%9D%98%A6%20%F0%9D%98%8E%F0%9D%98%A2%F0%9D%98%AE%F0%9D%98%AA%F0%9D%98%AF%F0%9D%98%A8%20%F0%9F%87%B9%F0%9F%87%B7%20new 
+سرور 4:
+vless://eeb38fe7-69d3-41e7-acfa-b2fb261f4a5d@us.moaidownloader.info:2002?security=none&type=tcp&headerType=http&path=%2F&host=xbox.com#%F0%9F%87%BA%F0%9F%87%B8%20USA%20%F0%9F%8C%B1
+
+💡 برای کپی، روی لینک‌های 
