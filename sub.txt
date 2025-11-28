@@ -14,4 +14,14 @@ vless://eeb38fe7-69d3-41e7-acfa-b2fb261f4a5d@en.logiclama.com:7026?security=real
 سرور 4:
 vless://eeb38fe7-69d3-41e7-acfa-b2fb261f4a5d@us.moaidownloader.info:2002?security=none&type=tcp&headerType=http&path=%2F&host=xbox.com#%F0%9F%87%BA%F0%9F%87%B8%20USA%20%F0%9F%8C%B1
 
-💡 برای کپی، روی لینک‌های 
+
+vless://07096e6a-07e3-f760-e652-9425ea6b041a@Ttt.Xxxxxx-God.xyz:4433?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9D%98%95%F0%9D%98%A6%F0%9D%98%B5%F0%9D%98%A9%F0%9D%98%A6%F0%9D%98%B3%F0%9D%98%AD%F0%9D%98%A2%F0%9D%98%AF%F0%9D%98%A5%F0%9D%98%B4%20%C3%97%20%F0%9D%98%90%F0%9D%98%B3%F0%9D%98%A2%F0%9D%98%AF%20%F0%9F%87%AE%F0%9F%87%B7 
+
+
+
+vless://07096e6a-07e3-f760-e652-9425ea6b041a@Tonvip.Xxx-Internet.shop:3377?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%9D%84%20Iran%20%F0%9F%87%AE%F0%9F%87%B7
+
+
+
+
+vless://07096e6a-07e3-f760-e652-9425ea6b041a@107.161.174.184:9615?security=&encryption=none&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%28%202%20%29%20%E2%9A%A1%EF%B8%8F
