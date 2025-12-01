@@ -22,3 +22,18 @@ vless://267fb2ec-fc84-461e-ac56-5f03723557cd@usa2647milanooorl.mongral.ir:4444?s
 vless://267fb2ec-fc84-461e-ac56-5f03723557cd@mmdlomia1lopmaliz1.mongral.ir:4444?security=reality&encryption=none&pbk=5if9NWaLaNEfwV9GuafHuas8q3wrxtsgf_-eInEOaSA&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com&sid=a3#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%F0%9D%97%A1%F0%9D%97%B2%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1%F0%9D%98%80%E3%80%8E%F0%9D%9F%9B%E3%80%8F
 
 
+
+vless://40b780e6-627a-4b1a-82ba-9de2413f47bb@help.site.moaidownloader.info:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.xbox.com&fp=chrome&pbk=254dNXsDuw4Rj5PTZer_L-I3U5Brf4yFIJXA0dk8bzo&sid=87cddfb6#سرور-الف۱
+
+
+
+
+vless://40b780e6-627a-4b1a-82ba-9de2413f47bb@site.help.moaidownloader.info:7026?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4&sid=#سرور-ب۲
+
+
+vless://40b780e6-627a-4b1a-82ba-9de2413f47bb@en.logiclama.com:7026?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4&sid=#سرور-ج۳
+
+
+
+
+vless://40b780e6-627a-4b1a-82ba-9de2413f47bb@us.moaidownloader.info:2002?security=none&type=tcp&headerType=http&path=%2F&host=xbox.com#سرور-د۴
