@@ -1,18 +1,4 @@
 
-📋 پیکربندی برای 2545155_v2rey45_102
-==================================================
-
-سرور 1:
-vless://eeb38fe7-69d3-41e7-acfa-b2fb261f4a5d@help.site.moaidownloader.info:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.xbox.com&fp=chrome&pbk=254dNXsDuw4Rj5PTZer_L-I3U5Brf4yFIJXA0dk8bzo&sid=87cddfb6#%F0%9F%8C%B1Reality%20%F0%9F%91%A42545155_v2rey45_102%20%F0%9F%93%8530%20Days
-
-سرور 2:
-vless://eeb38fe7-69d3-41e7-acfa-b2fb261f4a5d@site.help.moaidownloader.info:7026?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4&sid=#%F0%9F%8C%BEReality%2B%20200.0%20GB
-
-سرور 3:
-vless://eeb38fe7-69d3-41e7-acfa-b2fb261f4a5d@en.logiclama.com:7026?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4&sid=#%F0%9F%8D%80%20United%20kingdom%20%F0%9F%87%AC%F0%9F%87%A7
-
-سرور 4:
-vless://eeb38fe7-69d3-41e7-acfa-b2fb261f4a5d@us.moaidownloader.info:2002?security=none&type=tcp&headerType=http&path=%2F&host=xbox.com#%F0%9F%87%BA%F0%9F%87%B8%20USA%20%F0%9F%8C%B1
 
 
 vless://267fb2ec-fc84-461e-ac56-5f03723557cd@usa2647milanooorl.mongral.ir:4444?security=reality&encryption=none&pbk=5if9NWaLaNEfwV9GuafHuas8q3wrxtsgf_-eInEOaSA&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com&sid=a3#%F0%9F%87%BA%F0%9F%87%B2%20%7C%20%F0%9D%97%A8%F0%9D%97%A6%F0%9D%97%94%E3%80%8E%F0%9D%9F%9B%E3%80%8F
